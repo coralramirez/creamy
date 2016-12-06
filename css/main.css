@@ -1,0 +1,52 @@
+/* Inserta tu código aquí */
+/*------header---------*/
+
+button{
+   background-color: #fff;
+}
+header, button ,a{
+    color: #fff;
+}
+header{
+    background: #f05f40;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+button span{
+    background-color: black;
+}
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+/*------section1------*/
+.section-1{
+  background: #f4f0bb;
+    padding: 25px 0;
+    text-align: center;
+    color:#da2c38; 
+}
+.section-2{
+    background: #da2c38;
+    padding: 4% 0;
+    color: #f4f0bb;
+}
+.iconos{
+    background:#f4f0bb;
+    color: #da2c38;
+    text-align: center;
+}
+.icon i{
+    padding:25px;
+    font-size: 65px;
+}
+
+/*----footer--------*/
+.footer{
+    background: #da2c38;
+    color: #f4f0bb;
+    padding: 10px;
+     
+}
